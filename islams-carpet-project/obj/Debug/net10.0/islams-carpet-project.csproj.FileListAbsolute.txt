@@ -1,0 +1,14 @@
+/Users/mohamedahmed/Projects/C#/islams-carpet-project/islams-carpet-project/bin/Debug/net10.0/islams-carpet-project
+/Users/mohamedahmed/Projects/C#/islams-carpet-project/islams-carpet-project/bin/Debug/net10.0/islams-carpet-project.deps.json
+/Users/mohamedahmed/Projects/C#/islams-carpet-project/islams-carpet-project/bin/Debug/net10.0/islams-carpet-project.runtimeconfig.json
+/Users/mohamedahmed/Projects/C#/islams-carpet-project/islams-carpet-project/bin/Debug/net10.0/islams-carpet-project.dll
+/Users/mohamedahmed/Projects/C#/islams-carpet-project/islams-carpet-project/bin/Debug/net10.0/islams-carpet-project.pdb
+/Users/mohamedahmed/Projects/C#/islams-carpet-project/islams-carpet-project/obj/Debug/net10.0/islams-carpet-project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mohamedahmed/Projects/C#/islams-carpet-project/islams-carpet-project/obj/Debug/net10.0/islams-carpet-project.AssemblyInfoInputs.cache
+/Users/mohamedahmed/Projects/C#/islams-carpet-project/islams-carpet-project/obj/Debug/net10.0/islams-carpet-project.AssemblyInfo.cs
+/Users/mohamedahmed/Projects/C#/islams-carpet-project/islams-carpet-project/obj/Debug/net10.0/islams-carpet-project.csproj.CoreCompileInputs.cache
+/Users/mohamedahmed/Projects/C#/islams-carpet-project/islams-carpet-project/obj/Debug/net10.0/islams-carpet-project.dll
+/Users/mohamedahmed/Projects/C#/islams-carpet-project/islams-carpet-project/obj/Debug/net10.0/refint/islams-carpet-project.dll
+/Users/mohamedahmed/Projects/C#/islams-carpet-project/islams-carpet-project/obj/Debug/net10.0/islams-carpet-project.pdb
+/Users/mohamedahmed/Projects/C#/islams-carpet-project/islams-carpet-project/obj/Debug/net10.0/islams-carpet-project.genruntimeconfig.cache
+/Users/mohamedahmed/Projects/C#/islams-carpet-project/islams-carpet-project/obj/Debug/net10.0/ref/islams-carpet-project.dll
